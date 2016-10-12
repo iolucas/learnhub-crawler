@@ -1,0 +1,25 @@
+{
+  "name": "learnhub-crawler",
+  "version": "1.0.0",
+  "description": "Web crawler to gather course data to feed learnhub.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasolivier/learnhub-crawler.git"
+  },
+  "author": "Lucas V. Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasolivier/learnhub-crawler/issues"
+  },
+  "homepage": "https://github.com/lucasolivier/learnhub-crawler#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.22.0",
+    "json2csv": "^3.7.0",
+    "request": "^2.75.0"
+  }
+}

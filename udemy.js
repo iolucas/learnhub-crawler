@@ -150,7 +150,7 @@ function downloadCourseData(courseChannel, callback) {
         });        
 
         //Write reponse on files
-        fs.appendFileSync("csvs/udemy-" + area + ".csv", csvResults + "\n");
+        fs.writeFileSync("csvs/udemy-" + area + ".csv", csvResults + "\n");
 
         callback(area);
     }
