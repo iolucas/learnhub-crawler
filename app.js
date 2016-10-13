@@ -18,9 +18,6 @@ var json2csv = require('json2csv');
 //https://www.profissionaisti.com.br/curso-gratuito/
 //http://pro.tecmundo.com.br/educacao/86868-dinheiro-54-cursos-online-tecnologia-gratuitos-portugues.htm
 //http://www.impacta.com.br/
-//https://www.edx.org/
-//https://www.coursera.org/
-//https://br.udacity.com/courses/nanodegrees/
 //http://oedb.org/open/
 //http://exame.abril.com.br/tecnologia/noticias/13-cursos-gratuitos-para-quem-trabalha-com-tecnologia
 //http://canaldoensino.com.br/blog/100-cursos-online-de-tecnologia-gratis
@@ -29,7 +26,6 @@ var json2csv = require('json2csv');
 //http://www.cursoemvideo.com/
 //http://www.eduk.com.br/cursos-online
 //http://www.kroton.com.br/
-//https://www.udemy.com/
 //http://minicursos.acessasp.sp.gov.br/cursos/devkids/?nome_curso=devkids
 //https://www.codecademy.com/
 //https://www.iped.com.br/programacao-e-desenvolvimento/gratis
